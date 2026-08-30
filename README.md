@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Hi there, I'm Zeina 🇮🇶 
 
 ### 💜 Freelancer | Creative Python Developer
 
-*Turning lines of code into visual art & functional solutions.*
+*Transforming ordinary lines of code into visual art & functional solutions.*
 
 ---
 
@@ -17,29 +18,53 @@
 
 ## 🪐 About Me
 
-```python
-class Zeina:
-    def __init__(self):
-        self.name = "Zeina"
-        self.role = "Freelancer & Developer"
-        self.location = "Iraq 🇮🇶"
-        self.passion = "Transforming ordinary lines of code into visual art."
-        self.mindset = "A perfectionist driven by the relentless pursuit of excellence."
+✨ **Role:** Freelancer & Creative Python Developer  
+📍 **Location:** Iraq 🇮🇶  
+🎨 **Passion:** Turning lines of code into visual art and interactive graphics.  
+💎 **Mindset:** A perfectionist driven by the relentless pursuit of quality and excellence.  
 
-    def current_focus(self):
-        return [
-            "Building Custom Python Scripts & Automation",
-            "Creative Coding & Visual Animations",
-            "Exploring AI Fundamentals"
-        ]
-🏆 Major Achievements & Highlights
-​🚀 10M+ Views Viral Script: Created an animated Python visual script that achieved over 10 Million views on Instagram.
-​📜 CS50 Certified: Deep foundational knowledge in Computer Science and Problem Solving.
-​🎨 Code & Art Fusion: Specialized in rendering graphic math and code-driven art.
-​🛠️ Tech Stack & Tools
-​<div align="center">
+---
+
+## 🏆 Major Achievements
+
+* 🚀 **10M+ Views Viral Script:** Created an animated Python visual script that reached **over 10 Million views** on Instagram.
+* 📜 **CS50 Certified:** Strong foundational knowledge in Computer Science and Problem Solving.
+* 🎨 **Code & Art Fusion:** Specialized in graphic math, algorithmic art, and creative coding.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Intermediate-7b2cbf?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-3c096c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Turtle Graphics](https://img.shields.io/badge/Turtle_Graphics-Advanced-5a189a?style=for-the-badge&logo=artstation&logoColor=white)
+![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-Basics-9d4edd?style=for-the-badge&logo=openai&logoColor=white)
+
 </div>
-​📊 GitHub & Coding Activity
-​<div align="center">
-​<img src="https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="[https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c](https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c)" width="48%" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c](https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c)" width="48%" />
+
+<br/><br/>
+
+![Zeina's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=progzeina&bg_color=0d0d11&color=c77dff&line=7b2cbf&point=e0aaff&area=true&hide_border=false)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Perfectionism isn't about being flawless, it's about pushing the boundaries of quality."*
+
+⚡ Designed with 💜 by **Zeina**
+
+</div>
