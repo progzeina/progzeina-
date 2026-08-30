@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there, I'm Zeina 🇮🇶 
@@ -50,12 +49,8 @@
 
 <div align="center">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c](https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c)" width="48%" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c](https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c)" width="48%" />
-
-<br/><br/>
-
-![Zeina's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=progzeina&bg_color=0d0d11&color=c77dff&line=7b2cbf&point=e0aaff&area=true&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
 
 </div>
 
@@ -68,12 +63,3 @@
 ⚡ Designed with 💜 by **Zeina**
 
 </div>
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_USERNAME&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
-
-</div>
-
