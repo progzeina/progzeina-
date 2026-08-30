@@ -68,3 +68,12 @@
 ⚡ Designed with 💜 by **Zeina**
 
 </div>
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_USERNAME&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
+
+</div>
+
