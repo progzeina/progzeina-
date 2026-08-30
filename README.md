@@ -32,3 +32,14 @@ class Zeina:
             "Creative Coding & Visual Animations",
             "Exploring AI Fundamentals"
         ]
+🏆 Major Achievements & Highlights
+​🚀 10M+ Views Viral Script: Created an animated Python visual script that achieved over 10 Million views on Instagram.
+​📜 CS50 Certified: Deep foundational knowledge in Computer Science and Problem Solving.
+​🎨 Code & Art Fusion: Specialized in rendering graphic math and code-driven art.
+​🛠️ Tech Stack & Tools
+​<div align="center">
+</div>
+​📊 GitHub & Coding Activity
+​<div align="center">
+​<img src="https://github-readme-stats.vercel.app/api?username=progzeina&show_icons=true&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progzeina&layout=compact&theme=tokyonight&bg_color=0d0d11&title_color=c77dff&text_color=e0aaff&icon_color=c77dff&border_color=3c096c" width="48%" />
